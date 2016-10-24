@@ -12,8 +12,7 @@ deliverables: "1 HTML file, 1 CSS file"
 - Write the HTML and CSS necessary to make a link card.
 - The hover state should match what’s shown in the video.
 - The content can be found inside the `content.txt` file.
-- *Run it through Markbot and make sure it passes all the checks.*
-
+- *Run it through Markbot and make sure it passes all the checks.
 ---
 
 ## Details
